@@ -1,0 +1,11 @@
+/employees/node_modules
+/employees/public/hot
+/employees/public/storage
+/employees/storage/*.key
+/employees/vendor
+/employees/.env
+/employees/.phpunit.result.cache
+/employees/Homestead.json
+/employees/Homestead.yaml
+/employees/npm-debug.log
+/employees/yarn-error.log
